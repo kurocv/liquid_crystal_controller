@@ -1,0 +1,33 @@
+# secure
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+# OS
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+# settings
+.vscode/
+.idea/
+*.swp
+# others
+_bk
+build
+CMakeLists.txt
+export
+*.exe
+*.dll
+*.apk
+*.map
+*.lib
+*.ocx
+*.lnk
+
